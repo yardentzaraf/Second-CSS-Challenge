@@ -3,7 +3,7 @@
 
 > Part of the Second meeting CSS & HTML challenges -> CSS Battle Challenges (you can see the previews in the bottom of the page).
 
-[Corona challange](https://cssbattle.dev/play/47)
+[Corona challange](https://cssbattle.dev/play/47) <br/>
 [Sobe challange](https://cssbattle.dev/play/48)
 
 ---
